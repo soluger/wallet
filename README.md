@@ -3,7 +3,8 @@
 Para rodar em seu ambiente local:<br/>
 01 clone o repositório<br/>
 02 npm install<br/> 
-03 npm init ou expo init ( para rodar no emulador ou em seu celular )<br/>
+03 altere as informações do firebase<br/> 
+04 npm init ou expo init ( para rodar no emulador ou em seu celular )<br/>
 
 O sistema de armazenamento deste aplicativo está na nuvem com firebase<br/>
 
