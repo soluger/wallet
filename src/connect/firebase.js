@@ -5,12 +5,12 @@ import 'firebase/firestore';
 import 'firebase/storage';
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyD5u48IntG3EC77KsMOl4lS32ExXDf01wQ",
-    authDomain: "carteira-6b73c.firebaseapp.com",
-    projectId: "carteira-6b73c",
-    storageBucket: "carteira-6b73c.appspot.com",
-    messagingSenderId: "345221211572",
-    appId: "1:345221211572:web:9c9dafa19484677a303ee1"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig);
